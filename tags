@@ -1,0 +1,416 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/Users/heyufan1/Library/Mobile Documents/com~apple~CloudDocs/学习/CPP/EffectiveC++/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	//
+$(VERBOSE).SILENT	cmake-build-debug/Makefile	/^$(VERBOSE).SILENT:$/;"	t
+$(VERBOSE)MAKESILENT	cmake-build-debug/Makefile	/^$(VERBOSE)MAKESILENT = -s$/;"	m
+%	cmake-build-debug/Makefile	/^% : %,v$/;"	t
+%	cmake-build-debug/Makefile	/^% : RCS\/%$/;"	t
+%	cmake-build-debug/Makefile	/^% : RCS\/%,v$/;"	t
+%	cmake-build-debug/Makefile	/^% : SCCS\/s.%$/;"	t
+%	cmake-build-debug/Makefile	/^% : s.%$/;"	t
+2L5dwJ8y9Dfj2Ue6ge4VAFsFJ3J	.idea/workspace.xml	/^  <component name="ProjectId" id="2L5dwJ8y9Dfj2Ue6ge4VAFsFJ3J" \/>$/;"	i
+A	src/02const/const.cpp	/^class A$/;"	c	file:
+A	src/03const2/UseConst.cpp	/^class A$/;"	c	file:
+ARCHITECTURE_ID	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c	/^#   define ARCHITECTURE_ID /;"	d	file:
+ARCHITECTURE_ID	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c	/^#  define ARCHITECTURE_ID /;"	d	file:
+ARCHITECTURE_ID	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c	/^#  define ARCHITECTURE_ID$/;"	d	file:
+ARCHITECTURE_ID	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#   define ARCHITECTURE_ID /;"	d	file:
+ARCHITECTURE_ID	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define ARCHITECTURE_ID /;"	d	file:
+ARCHITECTURE_ID	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define ARCHITECTURE_ID$/;"	d	file:
+B	src/02const/const.cpp	/^    static int B;$/;"	m	class:GamePlayer	typeref:typename:int	file:
+B	src/02const/const.cpp	/^int GamePlayer::B = 1;$/;"	m	class:GamePlayer	typeref:typename:int
+C	src/02const/const.cpp	/^    static const int C = 3; \/\/声明,且没有定义,初始化再类内$/;"	m	class:GamePlayer	typeref:typename:const int	file:
+C	src/02const/const.cpp	/^class C$/;"	c	file:
+CALL_WITH_MAX	src/02const/const.cpp	/^#define CALL_WITH_MAX(/;"	d	file:
+CMAKE_AR	cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake	/^set(CMAKE_AR "\/Library\/Developer\/CommandLineTools\/usr\/bin\/ar")$/;"	v
+CMAKE_AR	cmake-build-debug/CMakeFiles/3.20.2/CMakeCXXCompiler.cmake	/^set(CMAKE_AR "\/Library\/Developer\/CommandLineTools\/usr\/bin\/ar")$/;"	v
+CMAKE_BINARY_DIR	cmake-build-debug/Makefile	/^CMAKE_BINARY_DIR = "\/Users\/heyufan1\/Library\/Mobile Documents\/com~apple~CloudDocs\/学习\/C/;"	m
+CMAKE_C11_COMPILE_FEATURES	cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake	/^set(CMAKE_C11_COMPILE_FEATURES "c_std_11;c_static_assert")$/;"	v
+CMAKE_C90_COMPILE_FEATURES	cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake	/^set(CMAKE_C90_COMPILE_FEATURES "c_std_90;c_function_prototypes")$/;"	v
+CMAKE_C99_COMPILE_FEATURES	cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake	/^set(CMAKE_C99_COMPILE_FEATURES "c_std_99;c_restrict;c_variadic_macros")$/;"	v
+CMAKE_CL_SHOWINCLUDES_PREFIX	cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake	/^  set(CMAKE_CL_SHOWINCLUDES_PREFIX "${CMAKE_C_CL_SHOWINCLUDES_PREFIX}")$/;"	v
+CMAKE_CL_SHOWINCLUDES_PREFIX	cmake-build-debug/CMakeFiles/3.20.2/CMakeCXXCompiler.cmake	/^  set(CMAKE_CL_SHOWINCLUDES_PREFIX "${CMAKE_CXX_CL_SHOWINCLUDES_PREFIX}")$/;"	v
+CMAKE_COMMAND	cmake-build-debug/Makefile	/^CMAKE_COMMAND = \/Applications\/CLion.app\/Contents\/bin\/cmake\/mac\/bin\/cmake$/;"	m
+CMAKE_COMPILER_IS_CYGWIN	cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake	/^set(CMAKE_COMPILER_IS_CYGWIN )$/;"	v
+CMAKE_COMPILER_IS_CYGWIN	cmake-build-debug/CMakeFiles/3.20.2/CMakeCXXCompiler.cmake	/^set(CMAKE_COMPILER_IS_CYGWIN )$/;"	v
+CMAKE_COMPILER_IS_GNUCC	cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake	/^set(CMAKE_COMPILER_IS_GNUCC )$/;"	v
+CMAKE_COMPILER_IS_GNUCXX	cmake-build-debug/CMakeFiles/3.20.2/CMakeCXXCompiler.cmake	/^set(CMAKE_COMPILER_IS_GNUCXX )$/;"	v
+CMAKE_COMPILER_IS_MINGW	cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake	/^set(CMAKE_COMPILER_IS_MINGW )$/;"	v
+CMAKE_COMPILER_IS_MINGW	cmake-build-debug/CMakeFiles/3.20.2/CMakeCXXCompiler.cmake	/^set(CMAKE_COMPILER_IS_MINGW )$/;"	v
+CMAKE_CROSSCOMPILING	cmake-build-debug/CMakeFiles/3.20.2/CMakeSystem.cmake	/^set(CMAKE_CROSSCOMPILING "FALSE")$/;"	v
+CMAKE_CROSSCOMPILING	cmake-build-debug/cmake_install.cmake	/^  set(CMAKE_CROSSCOMPILING "FALSE")$/;"	v
+CMAKE_CXX11_COMPILE_FEATURES	cmake-build-debug/CMakeFiles/3.20.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX11_COMPILE_FEATURES "cxx_std_11;cxx_alias_templates;cxx_alignas;cxx_alignof;cxx_att/;"	v
+CMAKE_CXX14_COMPILE_FEATURES	cmake-build-debug/CMakeFiles/3.20.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX14_COMPILE_FEATURES "cxx_std_14;cxx_aggregate_default_initializers;cxx_attribute_de/;"	v
+CMAKE_CXX17_COMPILE_FEATURES	cmake-build-debug/CMakeFiles/3.20.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX17_COMPILE_FEATURES "cxx_std_17")$/;"	v
+CMAKE_CXX20_COMPILE_FEATURES	cmake-build-debug/CMakeFiles/3.20.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX20_COMPILE_FEATURES "cxx_std_20")$/;"	v
+CMAKE_CXX23_COMPILE_FEATURES	cmake-build-debug/CMakeFiles/3.20.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX23_COMPILE_FEATURES "")$/;"	v
+CMAKE_CXX98_COMPILE_FEATURES	cmake-build-debug/CMakeFiles/3.20.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX98_COMPILE_FEATURES "cxx_std_98;cxx_template_template_parameters")$/;"	v
+CMAKE_CXX_ABI_COMPILED	cmake-build-debug/CMakeFiles/3.20.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_ABI_COMPILED TRUE)$/;"	v
+CMAKE_CXX_BYTE_ORDER	cmake-build-debug/CMakeFiles/3.20.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_BYTE_ORDER "LITTLE_ENDIAN")$/;"	v
+CMAKE_CXX_CL_SHOWINCLUDES_PREFIX	cmake-build-debug/CMakeFiles/3.20.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_CL_SHOWINCLUDES_PREFIX "")$/;"	v
+CMAKE_CXX_COMPILER	cmake-build-debug/CMakeFiles/3.20.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_COMPILER "\/Library\/Developer\/CommandLineTools\/usr\/bin\/c++")$/;"	v
+CMAKE_CXX_COMPILER_ABI	cmake-build-debug/CMakeFiles/3.20.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_COMPILER_ABI "")$/;"	v
+CMAKE_CXX_COMPILER_AR	cmake-build-debug/CMakeFiles/3.20.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_COMPILER_AR "")$/;"	v
+CMAKE_CXX_COMPILER_ARG1	cmake-build-debug/CMakeFiles/3.20.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_COMPILER_ARG1 "")$/;"	v
+CMAKE_CXX_COMPILER_ENV_VAR	cmake-build-debug/CMakeFiles/3.20.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_COMPILER_ENV_VAR "CXX")$/;"	v
+CMAKE_CXX_COMPILER_FRONTEND_VARIANT	cmake-build-debug/CMakeFiles/3.20.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_COMPILER_FRONTEND_VARIANT "")$/;"	v
+CMAKE_CXX_COMPILER_ID	cmake-build-debug/CMakeFiles/3.20.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_COMPILER_ID "AppleClang")$/;"	v
+CMAKE_CXX_COMPILER_ID	cmake-build-debug/CMakeFiles/EffectiveC++.dir/DependInfo.cmake	/^set(CMAKE_CXX_COMPILER_ID "AppleClang")$/;"	v
+CMAKE_CXX_COMPILER_ID	cmake-build-debug/CMakeFiles/EffectiveC__.dir/DependInfo.cmake	/^set(CMAKE_CXX_COMPILER_ID "AppleClang")$/;"	v
+CMAKE_CXX_COMPILER_ID	cmake-build-debug/CMakeFiles/UseConst.dir/DependInfo.cmake	/^set(CMAKE_CXX_COMPILER_ID "AppleClang")$/;"	v
+CMAKE_CXX_COMPILER_ID	cmake-build-debug/CMakeFiles/const.dir/DependInfo.cmake	/^set(CMAKE_CXX_COMPILER_ID "AppleClang")$/;"	v
+CMAKE_CXX_COMPILER_ID	cmake-build-debug/CMakeFiles/copyAssignment.dir/DependInfo.cmake	/^set(CMAKE_CXX_COMPILER_ID "AppleClang")$/;"	v
+CMAKE_CXX_COMPILER_ID	cmake-build-debug/CMakeFiles/ptr.dir/DependInfo.cmake	/^set(CMAKE_CXX_COMPILER_ID "AppleClang")$/;"	v
+CMAKE_CXX_COMPILER_ID_RUN	cmake-build-debug/CMakeFiles/3.20.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_COMPILER_ID_RUN 1)$/;"	v
+CMAKE_CXX_COMPILER_LOADED	cmake-build-debug/CMakeFiles/3.20.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_COMPILER_LOADED 1)$/;"	v
+CMAKE_CXX_COMPILER_RANLIB	cmake-build-debug/CMakeFiles/3.20.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_COMPILER_RANLIB "")$/;"	v
+CMAKE_CXX_COMPILER_VERSION	cmake-build-debug/CMakeFiles/3.20.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_COMPILER_VERSION "14.0.0.14000029")$/;"	v
+CMAKE_CXX_COMPILER_VERSION_INTERNAL	cmake-build-debug/CMakeFiles/3.20.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_COMPILER_VERSION_INTERNAL "")$/;"	v
+CMAKE_CXX_COMPILER_WORKS	cmake-build-debug/CMakeFiles/3.20.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_COMPILER_WORKS TRUE)$/;"	v
+CMAKE_CXX_COMPILER_WRAPPER	cmake-build-debug/CMakeFiles/3.20.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_COMPILER_WRAPPER "")$/;"	v
+CMAKE_CXX_COMPILE_FEATURES	cmake-build-debug/CMakeFiles/3.20.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_COMPILE_FEATURES "cxx_std_98;cxx_template_template_parameters;cxx_std_11;cxx_alias/;"	v
+CMAKE_CXX_IGNORE_EXTENSIONS	cmake-build-debug/CMakeFiles/3.20.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_IGNORE_EXTENSIONS inl;h;hpp;HPP;H;o;O;obj;OBJ;def;DEF;rc;RC)$/;"	v
+CMAKE_CXX_IMPLICIT_INCLUDE_DIRECTORIES	cmake-build-debug/CMakeFiles/3.20.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_IMPLICIT_INCLUDE_DIRECTORIES "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX/;"	v
+CMAKE_CXX_IMPLICIT_LINK_DIRECTORIES	cmake-build-debug/CMakeFiles/3.20.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_IMPLICIT_LINK_DIRECTORIES "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX13./;"	v
+CMAKE_CXX_IMPLICIT_LINK_FRAMEWORK_DIRECTORIES	cmake-build-debug/CMakeFiles/3.20.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_IMPLICIT_LINK_FRAMEWORK_DIRECTORIES "\/Library\/Developer\/CommandLineTools\/SDKs\//;"	v
+CMAKE_CXX_IMPLICIT_LINK_LIBRARIES	cmake-build-debug/CMakeFiles/3.20.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_IMPLICIT_LINK_LIBRARIES "c++")$/;"	v
+CMAKE_CXX_INCLUDE_REGEX_COMPLAIN	cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake	/^set(CMAKE_CXX_INCLUDE_REGEX_COMPLAIN ${CMAKE_C_INCLUDE_REGEX_COMPLAIN})$/;"	v
+CMAKE_CXX_INCLUDE_REGEX_SCAN	cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake	/^set(CMAKE_CXX_INCLUDE_REGEX_SCAN ${CMAKE_C_INCLUDE_REGEX_SCAN})$/;"	v
+CMAKE_CXX_LIBRARY_ARCHITECTURE	cmake-build-debug/CMakeFiles/3.20.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_LIBRARY_ARCHITECTURE "")$/;"	v
+CMAKE_CXX_LINKER_PREFERENCE	cmake-build-debug/CMakeFiles/3.20.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_LINKER_PREFERENCE 30)$/;"	v
+CMAKE_CXX_LINKER_PREFERENCE_PROPAGATES	cmake-build-debug/CMakeFiles/3.20.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_LINKER_PREFERENCE_PROPAGATES 1)$/;"	v
+CMAKE_CXX_PLATFORM_ID	cmake-build-debug/CMakeFiles/3.20.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_PLATFORM_ID "Darwin")$/;"	v
+CMAKE_CXX_SIMULATE_ID	cmake-build-debug/CMakeFiles/3.20.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_SIMULATE_ID "")$/;"	v
+CMAKE_CXX_SIMULATE_VERSION	cmake-build-debug/CMakeFiles/3.20.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_SIMULATE_VERSION "")$/;"	v
+CMAKE_CXX_SIZEOF_DATA_PTR	cmake-build-debug/CMakeFiles/3.20.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_SIZEOF_DATA_PTR "8")$/;"	v
+CMAKE_CXX_SOURCE_FILE_EXTENSIONS	cmake-build-debug/CMakeFiles/3.20.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_SOURCE_FILE_EXTENSIONS C;M;c++;cc;cpp;cxx;m;mm;mpp;CPP)$/;"	v
+CMAKE_CXX_STANDARD	CMakeLists.txt	/^set(CMAKE_CXX_STANDARD 14)$/;"	v
+CMAKE_CXX_STANDARD_COMPUTED_DEFAULT	cmake-build-debug/CMakeFiles/3.20.2/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_STANDARD_COMPUTED_DEFAULT "98")$/;"	v
+CMAKE_CXX_TARGET_INCLUDE_PATH	cmake-build-debug/CMakeFiles/EffectiveC++.dir/DependInfo.cmake	/^set(CMAKE_CXX_TARGET_INCLUDE_PATH$/;"	v
+CMAKE_CXX_TARGET_INCLUDE_PATH	cmake-build-debug/CMakeFiles/EffectiveC__.dir/DependInfo.cmake	/^set(CMAKE_CXX_TARGET_INCLUDE_PATH$/;"	v
+CMAKE_CXX_TARGET_INCLUDE_PATH	cmake-build-debug/CMakeFiles/UseConst.dir/DependInfo.cmake	/^set(CMAKE_CXX_TARGET_INCLUDE_PATH$/;"	v
+CMAKE_CXX_TARGET_INCLUDE_PATH	cmake-build-debug/CMakeFiles/const.dir/DependInfo.cmake	/^set(CMAKE_CXX_TARGET_INCLUDE_PATH$/;"	v
+CMAKE_CXX_TARGET_INCLUDE_PATH	cmake-build-debug/CMakeFiles/copyAssignment.dir/DependInfo.cmake	/^set(CMAKE_CXX_TARGET_INCLUDE_PATH$/;"	v
+CMAKE_CXX_TARGET_INCLUDE_PATH	cmake-build-debug/CMakeFiles/ptr.dir/DependInfo.cmake	/^set(CMAKE_CXX_TARGET_INCLUDE_PATH$/;"	v
+CMAKE_C_ABI_COMPILED	cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake	/^set(CMAKE_C_ABI_COMPILED TRUE)$/;"	v
+CMAKE_C_BYTE_ORDER	cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake	/^set(CMAKE_C_BYTE_ORDER "LITTLE_ENDIAN")$/;"	v
+CMAKE_C_CL_SHOWINCLUDES_PREFIX	cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake	/^set(CMAKE_C_CL_SHOWINCLUDES_PREFIX "")$/;"	v
+CMAKE_C_COMPILER	cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake	/^set(CMAKE_C_COMPILER "\/Library\/Developer\/CommandLineTools\/usr\/bin\/cc")$/;"	v
+CMAKE_C_COMPILER_ABI	cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake	/^set(CMAKE_C_COMPILER_ABI "")$/;"	v
+CMAKE_C_COMPILER_AR	cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake	/^set(CMAKE_C_COMPILER_AR "")$/;"	v
+CMAKE_C_COMPILER_ARG1	cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake	/^set(CMAKE_C_COMPILER_ARG1 "")$/;"	v
+CMAKE_C_COMPILER_ENV_VAR	cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake	/^set(CMAKE_C_COMPILER_ENV_VAR "CC")$/;"	v
+CMAKE_C_COMPILER_FRONTEND_VARIANT	cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake	/^set(CMAKE_C_COMPILER_FRONTEND_VARIANT "")$/;"	v
+CMAKE_C_COMPILER_ID	cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake	/^set(CMAKE_C_COMPILER_ID "AppleClang")$/;"	v
+CMAKE_C_COMPILER_ID_RUN	cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake	/^set(CMAKE_C_COMPILER_ID_RUN 1)$/;"	v
+CMAKE_C_COMPILER_LOADED	cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake	/^set(CMAKE_C_COMPILER_LOADED 1)$/;"	v
+CMAKE_C_COMPILER_RANLIB	cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake	/^set(CMAKE_C_COMPILER_RANLIB "")$/;"	v
+CMAKE_C_COMPILER_VERSION	cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake	/^set(CMAKE_C_COMPILER_VERSION "14.0.0.14000029")$/;"	v
+CMAKE_C_COMPILER_VERSION_INTERNAL	cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake	/^set(CMAKE_C_COMPILER_VERSION_INTERNAL "")$/;"	v
+CMAKE_C_COMPILER_WORKS	cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake	/^set(CMAKE_C_COMPILER_WORKS TRUE)$/;"	v
+CMAKE_C_COMPILER_WRAPPER	cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake	/^set(CMAKE_C_COMPILER_WRAPPER "")$/;"	v
+CMAKE_C_COMPILE_FEATURES	cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake	/^set(CMAKE_C_COMPILE_FEATURES "c_std_90;c_function_prototypes;c_std_99;c_restrict;c_variadic_macr/;"	v
+CMAKE_C_IGNORE_EXTENSIONS	cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake	/^set(CMAKE_C_IGNORE_EXTENSIONS h;H;o;O;obj;OBJ;def;DEF;rc;RC)$/;"	v
+CMAKE_C_IMPLICIT_INCLUDE_DIRECTORIES	cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake	/^set(CMAKE_C_IMPLICIT_INCLUDE_DIRECTORIES "\/Library\/Developer\/CommandLineTools\/usr\/lib\/clan/;"	v
+CMAKE_C_IMPLICIT_LINK_DIRECTORIES	cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake	/^set(CMAKE_C_IMPLICIT_LINK_DIRECTORIES "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX13.1./;"	v
+CMAKE_C_IMPLICIT_LINK_FRAMEWORK_DIRECTORIES	cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake	/^set(CMAKE_C_IMPLICIT_LINK_FRAMEWORK_DIRECTORIES "\/Library\/Developer\/CommandLineTools\/SDKs\/M/;"	v
+CMAKE_C_IMPLICIT_LINK_LIBRARIES	cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake	/^set(CMAKE_C_IMPLICIT_LINK_LIBRARIES "")$/;"	v
+CMAKE_C_INCLUDE_REGEX_COMPLAIN	cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake	/^set(CMAKE_C_INCLUDE_REGEX_COMPLAIN "^$")$/;"	v
+CMAKE_C_INCLUDE_REGEX_SCAN	cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake	/^set(CMAKE_C_INCLUDE_REGEX_SCAN "^.*$")$/;"	v
+CMAKE_C_LIBRARY_ARCHITECTURE	cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake	/^set(CMAKE_C_LIBRARY_ARCHITECTURE "")$/;"	v
+CMAKE_C_LINKER_PREFERENCE	cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake	/^set(CMAKE_C_LINKER_PREFERENCE 10)$/;"	v
+CMAKE_C_PLATFORM_ID	cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake	/^set(CMAKE_C_PLATFORM_ID "Darwin")$/;"	v
+CMAKE_C_SIMULATE_ID	cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake	/^set(CMAKE_C_SIMULATE_ID "")$/;"	v
+CMAKE_C_SIMULATE_VERSION	cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake	/^set(CMAKE_C_SIMULATE_VERSION "")$/;"	v
+CMAKE_C_SIZEOF_DATA_PTR	cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake	/^set(CMAKE_C_SIZEOF_DATA_PTR "8")$/;"	v
+CMAKE_C_SOURCE_FILE_EXTENSIONS	cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake	/^set(CMAKE_C_SOURCE_FILE_EXTENSIONS c;m)$/;"	v
+CMAKE_C_STANDARD_COMPUTED_DEFAULT	cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake	/^set(CMAKE_C_STANDARD_COMPUTED_DEFAULT "11")$/;"	v
+CMAKE_DEPENDS_CHECK_CXX	cmake-build-debug/CMakeFiles/EffectiveC++.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_CHECK_CXX$/;"	v
+CMAKE_DEPENDS_CHECK_CXX	cmake-build-debug/CMakeFiles/EffectiveC__.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_CHECK_CXX$/;"	v
+CMAKE_DEPENDS_CHECK_CXX	cmake-build-debug/CMakeFiles/UseConst.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_CHECK_CXX$/;"	v
+CMAKE_DEPENDS_CHECK_CXX	cmake-build-debug/CMakeFiles/const.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_CHECK_CXX$/;"	v
+CMAKE_DEPENDS_CHECK_CXX	cmake-build-debug/CMakeFiles/copyAssignment.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_CHECK_CXX$/;"	v
+CMAKE_DEPENDS_CHECK_CXX	cmake-build-debug/CMakeFiles/ptr.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_CHECK_CXX$/;"	v
+CMAKE_DEPENDS_DEPENDENCY_FILES	cmake-build-debug/CMakeFiles/EffectiveC++.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_DEPENDENCY_FILES$/;"	v
+CMAKE_DEPENDS_DEPENDENCY_FILES	cmake-build-debug/CMakeFiles/EffectiveC__.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_DEPENDENCY_FILES$/;"	v
+CMAKE_DEPENDS_DEPENDENCY_FILES	cmake-build-debug/CMakeFiles/UseConst.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_DEPENDENCY_FILES$/;"	v
+CMAKE_DEPENDS_DEPENDENCY_FILES	cmake-build-debug/CMakeFiles/const.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_DEPENDENCY_FILES$/;"	v
+CMAKE_DEPENDS_DEPENDENCY_FILES	cmake-build-debug/CMakeFiles/copyAssignment.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_DEPENDENCY_FILES$/;"	v
+CMAKE_DEPENDS_DEPENDENCY_FILES	cmake-build-debug/CMakeFiles/ptr.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_DEPENDENCY_FILES$/;"	v
+CMAKE_DEPENDS_GENERATOR	cmake-build-debug/CMakeFiles/Makefile.cmake	/^set(CMAKE_DEPENDS_GENERATOR "Unix Makefiles")$/;"	v
+CMAKE_DEPENDS_IN_PROJECT_ONLY	cmake-build-debug/CMakeFiles/EffectiveC++.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)$/;"	v
+CMAKE_DEPENDS_IN_PROJECT_ONLY	cmake-build-debug/CMakeFiles/EffectiveC__.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)$/;"	v
+CMAKE_DEPENDS_IN_PROJECT_ONLY	cmake-build-debug/CMakeFiles/UseConst.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)$/;"	v
+CMAKE_DEPENDS_IN_PROJECT_ONLY	cmake-build-debug/CMakeFiles/const.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)$/;"	v
+CMAKE_DEPENDS_IN_PROJECT_ONLY	cmake-build-debug/CMakeFiles/copyAssignment.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)$/;"	v
+CMAKE_DEPENDS_IN_PROJECT_ONLY	cmake-build-debug/CMakeFiles/ptr.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)$/;"	v
+CMAKE_DEPENDS_LANGUAGES	cmake-build-debug/CMakeFiles/EffectiveC++.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_LANGUAGES$/;"	v
+CMAKE_DEPENDS_LANGUAGES	cmake-build-debug/CMakeFiles/EffectiveC__.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_LANGUAGES$/;"	v
+CMAKE_DEPENDS_LANGUAGES	cmake-build-debug/CMakeFiles/UseConst.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_LANGUAGES$/;"	v
+CMAKE_DEPENDS_LANGUAGES	cmake-build-debug/CMakeFiles/const.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_LANGUAGES$/;"	v
+CMAKE_DEPENDS_LANGUAGES	cmake-build-debug/CMakeFiles/copyAssignment.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_LANGUAGES$/;"	v
+CMAKE_DEPENDS_LANGUAGES	cmake-build-debug/CMakeFiles/ptr.dir/DependInfo.cmake	/^set(CMAKE_DEPENDS_LANGUAGES$/;"	v
+CMAKE_DEPEND_INFO_FILES	cmake-build-debug/CMakeFiles/Makefile.cmake	/^set(CMAKE_DEPEND_INFO_FILES$/;"	v
+CMAKE_FORCE_UNIX_PATHS	cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake	/^set(CMAKE_FORCE_UNIX_PATHS 1)$/;"	v
+CMAKE_Fortran_TARGET_MODULE_DIR	cmake-build-debug/CMakeFiles/EffectiveC++.dir/DependInfo.cmake	/^set(CMAKE_Fortran_TARGET_MODULE_DIR "")$/;"	v
+CMAKE_Fortran_TARGET_MODULE_DIR	cmake-build-debug/CMakeFiles/EffectiveC__.dir/DependInfo.cmake	/^set(CMAKE_Fortran_TARGET_MODULE_DIR "")$/;"	v
+CMAKE_Fortran_TARGET_MODULE_DIR	cmake-build-debug/CMakeFiles/UseConst.dir/DependInfo.cmake	/^set(CMAKE_Fortran_TARGET_MODULE_DIR "")$/;"	v
+CMAKE_Fortran_TARGET_MODULE_DIR	cmake-build-debug/CMakeFiles/const.dir/DependInfo.cmake	/^set(CMAKE_Fortran_TARGET_MODULE_DIR "")$/;"	v
+CMAKE_Fortran_TARGET_MODULE_DIR	cmake-build-debug/CMakeFiles/copyAssignment.dir/DependInfo.cmake	/^set(CMAKE_Fortran_TARGET_MODULE_DIR "")$/;"	v
+CMAKE_Fortran_TARGET_MODULE_DIR	cmake-build-debug/CMakeFiles/ptr.dir/DependInfo.cmake	/^set(CMAKE_Fortran_TARGET_MODULE_DIR "")$/;"	v
+CMAKE_HOST_SYSTEM	cmake-build-debug/CMakeFiles/3.20.2/CMakeSystem.cmake	/^set(CMAKE_HOST_SYSTEM "Darwin-22.2.0")$/;"	v
+CMAKE_HOST_SYSTEM_NAME	cmake-build-debug/CMakeFiles/3.20.2/CMakeSystem.cmake	/^set(CMAKE_HOST_SYSTEM_NAME "Darwin")$/;"	v
+CMAKE_HOST_SYSTEM_PROCESSOR	cmake-build-debug/CMakeFiles/3.20.2/CMakeSystem.cmake	/^set(CMAKE_HOST_SYSTEM_PROCESSOR "arm64")$/;"	v
+CMAKE_HOST_SYSTEM_VERSION	cmake-build-debug/CMakeFiles/3.20.2/CMakeSystem.cmake	/^set(CMAKE_HOST_SYSTEM_VERSION "22.2.0")$/;"	v
+CMAKE_INSTALL_COMPONENT	cmake-build-debug/cmake_install.cmake	/^    set(CMAKE_INSTALL_COMPONENT "${COMPONENT}")$/;"	v
+CMAKE_INSTALL_COMPONENT	cmake-build-debug/cmake_install.cmake	/^    set(CMAKE_INSTALL_COMPONENT)$/;"	v
+CMAKE_INSTALL_CONFIG_NAME	cmake-build-debug/cmake_install.cmake	/^    set(CMAKE_INSTALL_CONFIG_NAME "Debug")$/;"	v
+CMAKE_INSTALL_MANIFEST	cmake-build-debug/cmake_install.cmake	/^  set(CMAKE_INSTALL_MANIFEST "install_manifest.txt")$/;"	v
+CMAKE_INSTALL_MANIFEST	cmake-build-debug/cmake_install.cmake	/^  set(CMAKE_INSTALL_MANIFEST "install_manifest_${CMAKE_INSTALL_COMPONENT}.txt")$/;"	v
+CMAKE_INSTALL_PREFIX	cmake-build-debug/cmake_install.cmake	/^  set(CMAKE_INSTALL_PREFIX "\/usr\/local")$/;"	v
+CMAKE_INTERNAL_PLATFORM_ABI	cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake	/^  set(CMAKE_INTERNAL_PLATFORM_ABI "${CMAKE_C_COMPILER_ABI}")$/;"	v
+CMAKE_INTERNAL_PLATFORM_ABI	cmake-build-debug/CMakeFiles/3.20.2/CMakeCXXCompiler.cmake	/^  set(CMAKE_INTERNAL_PLATFORM_ABI "${CMAKE_CXX_COMPILER_ABI}")$/;"	v
+CMAKE_LIBRARY_ARCHITECTURE	cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake	/^  set(CMAKE_LIBRARY_ARCHITECTURE "")$/;"	v
+CMAKE_LIBRARY_ARCHITECTURE	cmake-build-debug/CMakeFiles/3.20.2/CMakeCXXCompiler.cmake	/^  set(CMAKE_LIBRARY_ARCHITECTURE "")$/;"	v
+CMAKE_LINKER	cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake	/^set(CMAKE_LINKER "\/Library\/Developer\/CommandLineTools\/usr\/bin\/ld")$/;"	v
+CMAKE_LINKER	cmake-build-debug/CMakeFiles/3.20.2/CMakeCXXCompiler.cmake	/^set(CMAKE_LINKER "\/Library\/Developer\/CommandLineTools\/usr\/bin\/ld")$/;"	v
+CMAKE_MAKEFILE_DEPENDS	cmake-build-debug/CMakeFiles/Makefile.cmake	/^set(CMAKE_MAKEFILE_DEPENDS$/;"	v
+CMAKE_MAKEFILE_OUTPUTS	cmake-build-debug/CMakeFiles/Makefile.cmake	/^set(CMAKE_MAKEFILE_OUTPUTS$/;"	v
+CMAKE_MAKEFILE_PRODUCTS	cmake-build-debug/CMakeFiles/Makefile.cmake	/^set(CMAKE_MAKEFILE_PRODUCTS$/;"	v
+CMAKE_MT	cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake	/^set(CMAKE_MT "")$/;"	v
+CMAKE_MT	cmake-build-debug/CMakeFiles/3.20.2/CMakeCXXCompiler.cmake	/^set(CMAKE_MT "")$/;"	v
+CMAKE_OBJDUMP	cmake-build-debug/cmake_install.cmake	/^  set(CMAKE_OBJDUMP "\/Library\/Developer\/CommandLineTools\/usr\/bin\/objdump")$/;"	v
+CMAKE_RANLIB	cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake	/^set(CMAKE_RANLIB "\/Library\/Developer\/CommandLineTools\/usr\/bin\/ranlib")$/;"	v
+CMAKE_RANLIB	cmake-build-debug/CMakeFiles/3.20.2/CMakeCXXCompiler.cmake	/^set(CMAKE_RANLIB "\/Library\/Developer\/CommandLineTools\/usr\/bin\/ranlib")$/;"	v
+CMAKE_RELATIVE_PATH_TOP_BINARY	cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake	/^set(CMAKE_RELATIVE_PATH_TOP_BINARY "\/Users\/heyufan1\/Library\/Mobile Documents\/com~apple~Clou/;"	v
+CMAKE_RELATIVE_PATH_TOP_SOURCE	cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake	/^set(CMAKE_RELATIVE_PATH_TOP_SOURCE "\/Users\/heyufan1\/Library\/Mobile Documents\/com~apple~Clou/;"	v
+CMAKE_SIZEOF_VOID_P	cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake	/^  set(CMAKE_SIZEOF_VOID_P "${CMAKE_C_SIZEOF_DATA_PTR}")$/;"	v
+CMAKE_SIZEOF_VOID_P	cmake-build-debug/CMakeFiles/3.20.2/CMakeCXXCompiler.cmake	/^  set(CMAKE_SIZEOF_VOID_P "${CMAKE_CXX_SIZEOF_DATA_PTR}")$/;"	v
+CMAKE_SOURCE_DIR	cmake-build-debug/Makefile	/^CMAKE_SOURCE_DIR = "\/Users\/heyufan1\/Library\/Mobile Documents\/com~apple~CloudDocs\/学习\/C/;"	m
+CMAKE_SYSTEM	cmake-build-debug/CMakeFiles/3.20.2/CMakeSystem.cmake	/^set(CMAKE_SYSTEM "Darwin-22.2.0")$/;"	v
+CMAKE_SYSTEM_LOADED	cmake-build-debug/CMakeFiles/3.20.2/CMakeSystem.cmake	/^set(CMAKE_SYSTEM_LOADED 1)$/;"	v
+CMAKE_SYSTEM_NAME	cmake-build-debug/CMakeFiles/3.20.2/CMakeSystem.cmake	/^set(CMAKE_SYSTEM_NAME "Darwin")$/;"	v
+CMAKE_SYSTEM_PROCESSOR	cmake-build-debug/CMakeFiles/3.20.2/CMakeSystem.cmake	/^set(CMAKE_SYSTEM_PROCESSOR "arm64")$/;"	v
+CMAKE_SYSTEM_VERSION	cmake-build-debug/CMakeFiles/3.20.2/CMakeSystem.cmake	/^set(CMAKE_SYSTEM_VERSION "22.2.0")$/;"	v
+CMAKE_TARGET_LINKED_INFO_FILES	cmake-build-debug/CMakeFiles/EffectiveC++.dir/DependInfo.cmake	/^set(CMAKE_TARGET_LINKED_INFO_FILES$/;"	v
+CMAKE_TARGET_LINKED_INFO_FILES	cmake-build-debug/CMakeFiles/EffectiveC__.dir/DependInfo.cmake	/^set(CMAKE_TARGET_LINKED_INFO_FILES$/;"	v
+CMAKE_TARGET_LINKED_INFO_FILES	cmake-build-debug/CMakeFiles/UseConst.dir/DependInfo.cmake	/^set(CMAKE_TARGET_LINKED_INFO_FILES$/;"	v
+CMAKE_TARGET_LINKED_INFO_FILES	cmake-build-debug/CMakeFiles/const.dir/DependInfo.cmake	/^set(CMAKE_TARGET_LINKED_INFO_FILES$/;"	v
+CMAKE_TARGET_LINKED_INFO_FILES	cmake-build-debug/CMakeFiles/copyAssignment.dir/DependInfo.cmake	/^set(CMAKE_TARGET_LINKED_INFO_FILES$/;"	v
+CMAKE_TARGET_LINKED_INFO_FILES	cmake-build-debug/CMakeFiles/ptr.dir/DependInfo.cmake	/^set(CMAKE_TARGET_LINKED_INFO_FILES$/;"	v
+COMPILER_ID	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_ID /;"	d	file:
+COMPILER_ID	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_ID /;"	d	file:
+COMPILER_VERSION_INTERNAL	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c	/^#  define COMPILER_VERSION_INTERNAL /;"	d	file:
+COMPILER_VERSION_INTERNAL	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_VERSION_INTERNAL /;"	d	file:
+COMPILER_VERSION_INTERNAL	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_INTERNAL /;"	d	file:
+COMPILER_VERSION_INTERNAL	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_INTERNAL /;"	d	file:
+COMPILER_VERSION_MAJOR	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c	/^  # define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c	/^#  define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^  # define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MINOR	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c	/^  # define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c	/^#  define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^  # define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_PATCH	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c	/^  # define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c	/^#   define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c	/^#  define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^  # define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#   define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_TWEAK	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c	/^#  define COMPILER_VERSION_TWEAK /;"	d	file:
+COMPILER_VERSION_TWEAK	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_VERSION_TWEAK /;"	d	file:
+COMPILER_VERSION_TWEAK	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_TWEAK /;"	d	file:
+COMPILER_VERSION_TWEAK	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_TWEAK /;"	d	file:
+CTextBlock	src/03const2/UseConst.cpp	/^    CTextBlock(int *pText) : pText(pText)$/;"	f	class:CTextBlock	file:
+CTextBlock	src/03const2/UseConst.cpp	/^class CTextBlock$/;"	c	file:
+CXX_STD	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#      define CXX_STD /;"	d	file:
+CXX_STD	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#    define CXX_STD /;"	d	file:
+CXX_STD	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define CXX_STD /;"	d	file:
+CYGWIN	cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake	/^  set(CYGWIN 1)$/;"	v
+CYGWIN	cmake-build-debug/CMakeFiles/3.20.2/CMakeCXXCompiler.cmake	/^  set(CYGWIN 1)$/;"	v
+C_DIALECT	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c	/^#  define C_DIALECT /;"	d	file:
+C_DIALECT	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c	/^#  define C_DIALECT$/;"	d	file:
+C_DIALECT	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c	/^# define C_DIALECT /;"	d	file:
+DEC	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c	/^#define DEC(/;"	d	file:
+DEC	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#define DEC(/;"	d	file:
+Default	.idea/workspace.xml	/^    <task active="true" id="Default" summary="Default task">$/;"	i
+EQUALS	cmake-build-debug/Makefile	/^EQUALS = =$/;"	m
+GamePlayer	src/02const/const.cpp	/^class GamePlayer$/;"	c	file:
+HEX	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c	/^#define HEX(/;"	d	file:
+HEX	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#define HEX(/;"	d	file:
+ID_VOID_MAIN	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c	/^# define ID_VOID_MAIN$/;"	d	file:
+MINGW	cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake	/^  set(MINGW 1)$/;"	v
+MINGW	cmake-build-debug/CMakeFiles/3.20.2/CMakeCXXCompiler.cmake	/^  set(MINGW 1)$/;"	v
+NumTurns	src/02const/const.cpp	/^    enum {NumTurns = 4};$/;"	e	enum:C::__anon75da0fac0103	file:
+NumTurns	src/02const/const.cpp	/^    static const int NumTurns; \/\/声明,定义和初始化在类外$/;"	m	class:GamePlayer	typeref:typename:const int	file:
+NumTurns	src/02const/const.cpp	/^const int GamePlayer::NumTurns = 3; \/\/定义$/;"	m	class:GamePlayer	typeref:typename:const int
+PLATFORM_ID	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c	/^#  define PLATFORM_ID /;"	d	file:
+PLATFORM_ID	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c	/^#  define PLATFORM_ID$/;"	d	file:
+PLATFORM_ID	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c	/^# define PLATFORM_ID /;"	d	file:
+PLATFORM_ID	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c	/^# define PLATFORM_ID$/;"	d	file:
+PLATFORM_ID	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define PLATFORM_ID /;"	d	file:
+PLATFORM_ID	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define PLATFORM_ID$/;"	d	file:
+PLATFORM_ID	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define PLATFORM_ID /;"	d	file:
+PLATFORM_ID	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define PLATFORM_ID$/;"	d	file:
+RM	cmake-build-debug/Makefile	/^RM = \/Applications\/CLion.app\/Contents\/bin\/cmake\/mac\/bin\/cmake -E rm -f$/;"	m
+SHELL	cmake-build-debug/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SIMULATE_ID	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c	/^#  define SIMULATE_ID /;"	d	file:
+SIMULATE_ID	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c	/^# define SIMULATE_ID /;"	d	file:
+SIMULATE_ID	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define SIMULATE_ID /;"	d	file:
+SIMULATE_ID	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define SIMULATE_ID /;"	d	file:
+SIMULATE_VERSION_MAJOR	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c	/^#  define SIMULATE_VERSION_MAJOR /;"	d	file:
+SIMULATE_VERSION_MAJOR	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c	/^# define SIMULATE_VERSION_MAJOR /;"	d	file:
+SIMULATE_VERSION_MAJOR	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define SIMULATE_VERSION_MAJOR /;"	d	file:
+SIMULATE_VERSION_MAJOR	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define SIMULATE_VERSION_MAJOR /;"	d	file:
+SIMULATE_VERSION_MINOR	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c	/^#  define SIMULATE_VERSION_MINOR /;"	d	file:
+SIMULATE_VERSION_MINOR	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c	/^# define SIMULATE_VERSION_MINOR /;"	d	file:
+SIMULATE_VERSION_MINOR	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define SIMULATE_VERSION_MINOR /;"	d	file:
+SIMULATE_VERSION_MINOR	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define SIMULATE_VERSION_MINOR /;"	d	file:
+SIMULATE_VERSION_PATCH	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c	/^#  define SIMULATE_VERSION_PATCH /;"	d	file:
+SIMULATE_VERSION_PATCH	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c	/^# define SIMULATE_VERSION_PATCH /;"	d	file:
+SIMULATE_VERSION_PATCH	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define SIMULATE_VERSION_PATCH /;"	d	file:
+SIMULATE_VERSION_PATCH	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define SIMULATE_VERSION_PATCH /;"	d	file:
+STRINGIFY	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c	/^#define STRINGIFY(/;"	d	file:
+STRINGIFY	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#define STRINGIFY(/;"	d	file:
+STRINGIFY_HELPER	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c	/^#define STRINGIFY_HELPER(/;"	d	file:
+STRINGIFY_HELPER	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#define STRINGIFY_HELPER(/;"	d	file:
+TextBlock	src/03const2/UseConst.cpp	/^    TextBlock(const string &text) : text(text)$/;"	f	class:TextBlock	file:
+TextBlock	src/03const2/UseConst.cpp	/^class TextBlock$/;"	c	file:
+UNIX	cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake	/^  set(UNIX 1)$/;"	v
+UNIX	cmake-build-debug/CMakeFiles/3.20.2/CMakeCXXCompiler.cmake	/^  set(UNIX 1)$/;"	v
+UseConst	CMakeLists.txt	/^add_executable(UseConst src\/03const2\/UseConst.cpp)$/;"	t
+UseConst	cmake-build-debug/Makefile	/^UseConst: cmake_check_build_system$/;"	t
+UseConst/fast	cmake-build-debug/Makefile	/^UseConst\/fast:$/;"	t
+Widget	src/0Introduction/copyAssignment.cpp	/^    Widget() : m_x(0), m_y(0)$/;"	f	class:Widget	file:
+Widget	src/0Introduction/copyAssignment.cpp	/^    Widget(const Widget& rhs) : m_x(rhs.m_x), m_y(rhs.m_y)$/;"	f	class:Widget	file:
+Widget	src/0Introduction/copyAssignment.cpp	/^    Widget(int mX, int mY) : m_x(mX), m_y(mY)$/;"	f	class:Widget	file:
+Widget	src/0Introduction/copyAssignment.cpp	/^class Widget$/;"	c	file:
+__anon75da0fac0103	src/02const/const.cpp	/^    enum {NumTurns = 4};$/;"	g	class:C	file:
+all	cmake-build-debug/Makefile	/^all: cmake_check_build_system$/;"	t
+bd6f82f4-f6e3-4d23-b550-2aa9a93c6402	.idea/workspace.xml	/^      <changelist id="bd6f82f4-f6e3-4d23-b550-2aa9a93c6402" name="Changes" comment="" \/>$/;"	i
+bd6f82f4-f6e3-4d23-b550-2aa9a93c6402	.idea/workspace.xml	/^    <list default="true" id="bd6f82f4-f6e3-4d23-b550-2aa9a93c6402" name="Changes" comment="" \/>$/;"	i
+c	src/02const/const.cpp	/^    int c[NumTurns];$/;"	m	class:C	typeref:typename:int[]	file:
+clean	cmake-build-debug/Makefile	/^clean:$/;"	t
+clean/fast	cmake-build-debug/Makefile	/^clean\/fast: clean$/;"	t
+cmake_check_build_system	cmake-build-debug/Makefile	/^cmake_check_build_system:$/;"	t
+cmake_force	cmake-build-debug/Makefile	/^cmake_force:$/;"	t
+const	CMakeLists.txt	/^add_executable(const src\/02const\/const.cpp)$/;"	t
+const	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c	/^# define const$/;"	d	file:
+const	cmake-build-debug/Makefile	/^const: cmake_check_build_system$/;"	t
+const/fast	cmake-build-debug/Makefile	/^const\/fast:$/;"	t
+copyAssignment	CMakeLists.txt	/^add_executable(copyAssignment src\/0Introduction\/copyAssignment.cpp)$/;"	t
+copyAssignment	cmake-build-debug/Makefile	/^copyAssignment: cmake_check_build_system$/;"	t
+copyAssignment/fast	cmake-build-debug/Makefile	/^copyAssignment\/fast:$/;"	t
+d_A	src/02const/const.cpp	/^    static const double d_A;$/;"	m	class:GamePlayer	typeref:typename:const double	file:
+d_B	src/02const/const.cpp	/^    constexpr static const double d_B = 3.13; \/\/如果是非整数型, 类内初始化需要co/;"	m	class:GamePlayer	typeref:typename:const double	file:
+default_target	cmake-build-debug/Makefile	/^default_target: all$/;"	t
+depend	cmake-build-debug/Makefile	/^depend:$/;"	t
+edit_cache	cmake-build-debug/Makefile	/^edit_cache:$/;"	t
+edit_cache/fast	cmake-build-debug/Makefile	/^edit_cache\/fast: edit_cache$/;"	t
+func	src/03const2/UseConst.cpp	/^    void func()$/;"	f	class:A	typeref:typename:void	file:
+func	src/03const2/ptr.cpp	/^void func(int *val)$/;"	f	typeref:typename:void
+func	src/0Introduction/copyAssignment.cpp	/^void func(Widget w)$/;"	f	typeref:typename:void
+help	cmake-build-debug/Makefile	/^help:$/;"	t
+info_arch	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v	typeref:typename:char const *
+info_arch	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v	typeref:typename:char const *
+info_compiler	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v	typeref:typename:char const *
+info_compiler	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v	typeref:typename:char const *
+info_cray	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c	/^char const *info_cray = "INFO" ":" "compiler_wrapper[CrayPrgEnv]";$/;"	v	typeref:typename:char const *
+info_cray	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const *info_cray = "INFO" ":" "compiler_wrapper[CrayPrgEnv]";$/;"	v	typeref:typename:char const *
+info_language_dialect_default	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c	/^const char* info_language_dialect_default =$/;"	v	typeref:typename:const char *
+info_language_dialect_default	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^const char* info_language_dialect_default = "INFO" ":" "dialect_default["$/;"	v	typeref:typename:const char *
+info_platform	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v	typeref:typename:char const *
+info_platform	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v	typeref:typename:char const *
+info_simulate	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c	/^char const* info_simulate = "INFO" ":" "simulate[" SIMULATE_ID "]";$/;"	v	typeref:typename:char const *
+info_simulate	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_simulate = "INFO" ":" "simulate[" SIMULATE_ID "]";$/;"	v	typeref:typename:char const *
+info_simulate_version	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c	/^char const info_simulate_version[] = {$/;"	v	typeref:typename:char const[]
+info_simulate_version	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_simulate_version[] = {$/;"	v	typeref:typename:char const[]
+info_version	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c	/^char const info_version[] = {$/;"	v	typeref:typename:char const[]
+info_version	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_version[] = {$/;"	v	typeref:typename:char const[]
+info_version_internal	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c	/^char const info_version_internal[] = {$/;"	v	typeref:typename:char const[]
+info_version_internal	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_version_internal[] = {$/;"	v	typeref:typename:char const[]
+m_x	src/0Introduction/copyAssignment.cpp	/^    int m_x;$/;"	m	class:Widget	typeref:typename:int	file:
+m_y	src/0Introduction/copyAssignment.cpp	/^    int m_y;$/;"	m	class:Widget	typeref:typename:int	file:
+main	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c	/^int main(argc, argv) int argc; char *argv[];$/;"	f
+main	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c	/^void main() {}$/;"	f	typeref:typename:void
+main	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^int main(int argc, char* argv[])$/;"	f	typeref:typename:int
+main	main.cpp	/^int main()$/;"	f	typeref:typename:int
+main	src/02const/const.cpp	/^int main()$/;"	f	typeref:typename:int
+main	src/03const2/UseConst.cpp	/^int main()$/;"	f	typeref:typename:int
+main	src/03const2/pthread_cancel.cpp	/^int main()$/;"	f	typeref:typename:int
+main	src/03const2/ptr.cpp	/^int main()$/;"	f	typeref:typename:int
+main	src/0Introduction/copyAssignment.cpp	/^int main()$/;"	f	typeref:typename:int
+main.cpp.i	cmake-build-debug/Makefile	/^main.cpp.i:$/;"	t
+main.cpp.o	cmake-build-debug/Makefile	/^main.cpp.o:$/;"	t
+main.cpp.s	cmake-build-debug/Makefile	/^main.cpp.s:$/;"	t
+main.i	cmake-build-debug/Makefile	/^main.i: main.cpp.i$/;"	t
+main.o	cmake-build-debug/Makefile	/^main.o: main.cpp.o$/;"	t
+main.s	cmake-build-debug/Makefile	/^main.s: main.cpp.s$/;"	t
+operator *	src/03const2/UseConst.cpp	/^const A operator*(const A& lhs, const A& rhs)$/;"	f	typeref:typename:const A
+operator <<	src/0Introduction/copyAssignment.cpp	/^    friend ostream &operator<<(ostream &os, const Widget &widget)$/;"	f	typeref:typename:ostream &	file:
+operator =	src/0Introduction/copyAssignment.cpp	/^    Widget& operator=(const Widget& rhs)$/;"	f	class:Widget	typeref:typename:Widget &	file:
+operator []	src/03const2/UseConst.cpp	/^    char& operator[](size_t pos)$/;"	f	class:TextBlock	typeref:typename:char &	file:
+operator []	src/03const2/UseConst.cpp	/^    const char& operator[](size_t pos) const$/;"	f	class:TextBlock	typeref:typename:const char &	file:
+operator []	src/03const2/UseConst.cpp	/^    int& operator[](std::size_t position)const {$/;"	f	class:CTextBlock	typeref:typename:int &	file:
+pText	src/03const2/UseConst.cpp	/^    int *pText;$/;"	m	class:CTextBlock	typeref:typename:int *	file:
+preinstall	cmake-build-debug/Makefile	/^preinstall: all$/;"	t
+preinstall/fast	cmake-build-debug/Makefile	/^preinstall\/fast:$/;"	t
+ptr	CMakeLists.txt	/^add_executable(ptr src\/03const2\/ptr.cpp)/;"	t
+ptr	cmake-build-debug/Makefile	/^ptr: cmake_check_build_system$/;"	t
+ptr/fast	cmake-build-debug/Makefile	/^ptr\/fast:$/;"	t
+qnxnto	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c	/^char const* qnxnto = "INFO" ":" "qnxnto[]";$/;"	v	typeref:typename:char const *
+qnxnto	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* qnxnto = "INFO" ":" "qnxnto[]";$/;"	v	typeref:typename:char const *
+rebuild_cache	cmake-build-debug/Makefile	/^rebuild_cache:$/;"	t
+rebuild_cache/fast	cmake-build-debug/Makefile	/^rebuild_cache\/fast: rebuild_cache$/;"	t
+src/02const/const.cpp.i	cmake-build-debug/Makefile	/^src\/02const\/const.cpp.i:$/;"	t
+src/02const/const.cpp.o	cmake-build-debug/Makefile	/^src\/02const\/const.cpp.o:$/;"	t
+src/02const/const.cpp.s	cmake-build-debug/Makefile	/^src\/02const\/const.cpp.s:$/;"	t
+src/02const/const.i	cmake-build-debug/Makefile	/^src\/02const\/const.i: src\/02const\/const.cpp.i$/;"	t
+src/02const/const.o	cmake-build-debug/Makefile	/^src\/02const\/const.o: src\/02const\/const.cpp.o$/;"	t
+src/02const/const.s	cmake-build-debug/Makefile	/^src\/02const\/const.s: src\/02const\/const.cpp.s$/;"	t
+src/03const2/UseConst.cpp.i	cmake-build-debug/Makefile	/^src\/03const2\/UseConst.cpp.i:$/;"	t
+src/03const2/UseConst.cpp.o	cmake-build-debug/Makefile	/^src\/03const2\/UseConst.cpp.o:$/;"	t
+src/03const2/UseConst.cpp.s	cmake-build-debug/Makefile	/^src\/03const2\/UseConst.cpp.s:$/;"	t
+src/03const2/UseConst.i	cmake-build-debug/Makefile	/^src\/03const2\/UseConst.i: src\/03const2\/UseConst.cpp.i$/;"	t
+src/03const2/UseConst.o	cmake-build-debug/Makefile	/^src\/03const2\/UseConst.o: src\/03const2\/UseConst.cpp.o$/;"	t
+src/03const2/UseConst.s	cmake-build-debug/Makefile	/^src\/03const2\/UseConst.s: src\/03const2\/UseConst.cpp.s$/;"	t
+src/03const2/ptr.cpp.i	cmake-build-debug/Makefile	/^src\/03const2\/ptr.cpp.i:$/;"	t
+src/03const2/ptr.cpp.o	cmake-build-debug/Makefile	/^src\/03const2\/ptr.cpp.o:$/;"	t
+src/03const2/ptr.cpp.s	cmake-build-debug/Makefile	/^src\/03const2\/ptr.cpp.s:$/;"	t
+src/03const2/ptr.i	cmake-build-debug/Makefile	/^src\/03const2\/ptr.i: src\/03const2\/ptr.cpp.i$/;"	t
+src/03const2/ptr.o	cmake-build-debug/Makefile	/^src\/03const2\/ptr.o: src\/03const2\/ptr.cpp.o$/;"	t
+src/03const2/ptr.s	cmake-build-debug/Makefile	/^src\/03const2\/ptr.s: src\/03const2\/ptr.cpp.s$/;"	t
+src/0Introduction/copyAssignment.cpp.i	cmake-build-debug/Makefile	/^src\/0Introduction\/copyAssignment.cpp.i:$/;"	t
+src/0Introduction/copyAssignment.cpp.o	cmake-build-debug/Makefile	/^src\/0Introduction\/copyAssignment.cpp.o:$/;"	t
+src/0Introduction/copyAssignment.cpp.s	cmake-build-debug/Makefile	/^src\/0Introduction\/copyAssignment.cpp.s:$/;"	t
+src/0Introduction/copyAssignment.i	cmake-build-debug/Makefile	/^src\/0Introduction\/copyAssignment.i: src\/0Introduction\/copyAssignment.cpp.i$/;"	t
+src/0Introduction/copyAssignment.o	cmake-build-debug/Makefile	/^src\/0Introduction\/copyAssignment.o: src\/0Introduction\/copyAssignment.cpp.o$/;"	t
+src/0Introduction/copyAssignment.s	cmake-build-debug/Makefile	/^src\/0Introduction\/copyAssignment.s: src\/0Introduction\/copyAssignment.cpp.s$/;"	t
+test01	src/02const/const.cpp	/^void test01()$/;"	f	typeref:typename:void
+test01	src/03const2/UseConst.cpp	/^void test01()$/;"	f	typeref:typename:void
+test01	src/03const2/ptr.cpp	/^void test01()$/;"	f	typeref:typename:void
+test01	src/0Introduction/copyAssignment.cpp	/^void test01()$/;"	f	typeref:typename:void
+test02	src/02const/const.cpp	/^void test02()$/;"	f	typeref:typename:void
+test02	src/03const2/UseConst.cpp	/^void test02()$/;"	f	typeref:typename:void
+test02	src/0Introduction/copyAssignment.cpp	/^void test02()$/;"	f	typeref:typename:void
+test03	src/02const/const.cpp	/^void test03()$/;"	f	typeref:typename:void
+test03	src/03const2/UseConst.cpp	/^void test03()$/;"	f	typeref:typename:void
+test04	src/03const2/UseConst.cpp	/^void test04()$/;"	f	typeref:typename:void
+test05	src/03const2/UseConst.cpp	/^void test05()$/;"	f	typeref:typename:void
+text	src/03const2/UseConst.cpp	/^    string text;$/;"	m	class:TextBlock	typeref:typename:string	file:
+volatile	cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c	/^# define volatile$/;"	d	file:
